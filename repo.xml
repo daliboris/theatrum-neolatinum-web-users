@@ -12,6 +12,11 @@
     <!-- will be replaced by local.secrets.xsl during ANT build -->
     <permissions /> 
     <changelog>
+        <change version="0.2.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>creates users belogging to the tei group for all editors</li>
+            </ul>
+        </change>
         <change version="0.1.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>creates an user who belongs to the tei group</li>
