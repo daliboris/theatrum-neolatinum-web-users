@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><meta xmlns="http://exist-db.org/xquery/repo">
     <description>Theatrum Neolatinum Annotation: Users</description>
     <author>Boris Lehečka</author>
-    <website>http://theatrum-neolatinum.cz/</website>
+    <website>http://theatrum-neolatinum.cz</website>
     <status>beta</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
