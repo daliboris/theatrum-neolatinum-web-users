@@ -12,6 +12,12 @@
     <!-- will be replaced by local.secrets.xsl during ANT build -->
     <permissions /> 
     <changelog>
+        <change version="0.4.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>correct product name in the license</li>
+                <li>better metadata in the package</li>
+            </ul>
+        </change>
         <change version="0.3.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>write permission for tei group in subcollections</li>
